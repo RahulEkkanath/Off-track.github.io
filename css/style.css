@@ -115,8 +115,8 @@ iframe
 
 .frame-1 p 
 {
-    margin-left: 2.6rem;
-    margin-right: 2.6rem;
+    margin-left: 1.3rem;
+    margin-right: 1.3rem;
     margin-top: 2.6rem;
 }
 
@@ -417,13 +417,19 @@ footer
     .frame-1 button 
     {
         color: white;
-        padding: 20px 20px;
+        padding: 15px 15px;
+        font-size: 12px;
         text-align: center;
         text-decoration: none;
         display: inline-block;
         background-color: #0C0C0C; 
         border: 2px solid #431A4D;
         border-radius: 10px;
+    }
+
+    nav 
+    {
+        height: 3.5rem;
     }
 }
 
